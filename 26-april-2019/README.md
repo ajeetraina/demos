@@ -1,4 +1,4 @@
-# Docker VIT Demos & Presentations
+# Presentation on 26-April-2019
 
 Slide: https://www.slideshare.net/ajeetraina/introduction-to-docker-vellor-institute-of-technology
 
